@@ -1,0 +1,18 @@
+.border {
+    border: 6px solid green;
+    margin: 10px;
+    background: pink;
+  }
+  #id {
+      padding: 25px;
+      text-align:center;
+  }
+  #dashes {
+      border-bottom: 3px dashed black;
+  }
+.link {
+    text-align: center;
+    background: pink;
+    border: 3px dashed goldenrod;
+    text-decoration: wavy overline underline royalblue;
+}
